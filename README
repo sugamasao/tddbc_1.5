@@ -1,0 +1,11 @@
+2011/07/09 に開催された
+http://devtesting.jp/tddbc/?TDDBC東京1.5
+の成果です。
+
+このプログラムはペアプロで作成していて、
+@sugamasao と @yotii23 さんで作成しました。
+
+以下の環境で実行していました。
+・Ruby1.9.2
+・MacOSX
+・Guard-Spec による autotest
